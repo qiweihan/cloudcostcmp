@@ -1,13 +1,9 @@
+""" Perform simulation to estimate cost of VoD service across three major cloud CDN providers"""
 import numpy as np
 import scipy as sp
 import pandas as pd
-
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-
-# n_samples = 10
-
 
 
 def generate_sample(n_samples, bit_rate):
