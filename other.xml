@@ -1,0 +1,29 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Introduction_to_Python/.idea/VirtualEnvironment/bin/python" value="false" />
+        <entry key="/anaconda/envs/chenw/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Introduction_to_Python/.idea/VirtualEnvironment/bin/python" value="false" />
+        <entry key="/anaconda/envs/chenw/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="StepicUpdateSettings">
+    <option name="lastTimeChecked" value="1503888945944" />
+    <option name="user">
+      <StepicUser>
+        <option name="accessToken" value="QRcF3zUFDmZhtqmkwbuzLw776pihKl" />
+        <option name="firstName" value="Francis" />
+        <option name="id" value="35587193" />
+        <option name="lastName" value="Han" />
+        <option name="refreshToken" value="jpimU9V9jVmKH6trpqFXd3QJGo5ktB" />
+      </StepicUser>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1503888945944" />
+  </component>
+</application>
