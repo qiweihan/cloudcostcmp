@@ -1,2 +1,0 @@
-# cloudcostcmp
-Cloud Cost Comparison
