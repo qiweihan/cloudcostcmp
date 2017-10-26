@@ -103,3 +103,5 @@ ENV/
 .idea/inspectionProfiles/
 .idea/workspace.xml
 /.gitignore
+
+*.xml
