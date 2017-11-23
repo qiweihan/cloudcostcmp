@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="interaction_episode.sql" type="SQL" />
       <mapping pattern="interaction_episode" type="SQL" />
+      <mapping pattern="patient_doctor_episode_counts" type="SQL" />
     </extensionMap>
   </component>
 </application>
