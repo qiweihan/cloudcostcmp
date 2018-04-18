@@ -30,8 +30,12 @@
           <option name="url" value="https://francishan@bitbucket.org/zmarinho/recsys.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/quantopian/research_public.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Research/有方" />
   </component>
 </application>
