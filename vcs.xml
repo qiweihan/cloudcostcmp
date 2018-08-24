@@ -38,8 +38,16 @@
           <option name="url" value="https://github.com/dssg/TPT_tourism.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:wesm/pydata-book.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wesm/pydata-book.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Research/Tourism Management" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Teaching/data curation" />
   </component>
 </application>
